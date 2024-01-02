@@ -1,0 +1,6 @@
+Tokenben való elkódolása, hogy miként szeretnénk feldolgozni egy részét a nyelvnek, amit feldolgozunk:
+    Forrás: https://docs.google.com/document/d/1YytXIrXjDSe1MT0BOFpxSttdUGC6kEIo4Y46U2kd5ZA/edit
+    TOken: Az utolsó oldalon #-jel egy bekezdésen belüli bekezdésekhez tartozó szöveg
+    Feladatok:
+        Az egy szinten lévő bekezdéseket gyűjtsük össze, ha egymás mellett vannak az "Egymás melletti szövegeket tartalmazó egy szinten lévő bekezdés" tokennel.
+        Az egymás melletti szövegekez tartalmazó egy szinten lévő bekezdésekkel készítsünk különböző eseményekre vonatkozó felosztását a kijelölt szöveg '#'+ nyelv által meghatározott karaktereivel.
