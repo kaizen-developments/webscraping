@@ -1,0 +1,1 @@
+Penny sites = [https://www.foodora.hu/shop/bsav/penny-szolnok-szechenyi-istvan-krt/view-all/dce95910-fb1b-4946-807e-bba490d4cf43.374ea2a2-9fd3-4ae9-9d46-08e29e933d05.e00bb6b9bd430cfa3e39682b9ddd75fd]
